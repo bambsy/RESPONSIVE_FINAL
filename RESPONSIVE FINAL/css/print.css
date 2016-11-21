@@ -1,0 +1,9 @@
+article {
+  width: auto;
+  max-width: auto;
+  margin: .5in, .5in;
+  }
+
+@page {
+margin: 0.4in;
+}
